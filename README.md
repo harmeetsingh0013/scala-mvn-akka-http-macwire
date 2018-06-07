@@ -1,0 +1,1 @@
+# scala-mvn-akka-http-macwire
